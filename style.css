@@ -113,7 +113,7 @@ body, html {
 }
 /* Media Queries */
 
-@media (max-width: 382px) {
+@media (max-width: 391px) {
     .logo-img {
         width: 100%;
     }
@@ -131,7 +131,7 @@ body, html {
     }
 
     .btn-custom {
-        font-size: 0.42rem;
+        font-size: 0.40rem;
         padding: 0.1rem 0.1rem;
     }
 
@@ -162,7 +162,7 @@ body, html {
     }
 }
 
-@media (min-width: 383px) and (max-width: 590px) {
+@media (min-width: 392px) and (max-width: 590px) {
     .logo-img {
         width: 100%;
     }
